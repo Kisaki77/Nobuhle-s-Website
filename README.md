@@ -1,10 +1,10 @@
 # Nobuhle-s-Website
 
-##Introduction 
+#Introduction 
 
 This is my CV website that includes my skills, experiences, education and my projects. I'll be sharing it with other companies as I look for a job.
 
-##Technologies 
+#Technologies 
 * HTML
 * CSS 
 
